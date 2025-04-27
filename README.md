@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to Luntha ("we", "our", or "us"). These Terms of Service ("Terms") govern your use of the Luntha mobile application ("App"). By accessing or using the App, you agree to be bound by these Terms and our [Privacy Policy](https://your-github-pages-privacy-policy-link). If you do not agree with these Terms, please do not use the App.
+Welcome to Luntha ("we", "our", or "us"). These Terms of Service ("Terms") govern your use of the Luntha mobile application ("App"). By accessing or using the App, you agree to be bound by these Terms and our [Privacy Policy](https://itsgeorrge.github.io/privacy-policy/). If you do not agree with these Terms, please do not use the App.
 
 ## 2. Use of the Service
 
