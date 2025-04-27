@@ -71,6 +71,6 @@ These Terms shall be governed by and construed in accordance with the laws of th
 ## 14. Contact Information
 
 If you have any questions about these Terms, please contact us at:  
-**Email: **[lunthatvdirector@lunthatv.com](mailto:lunthatvdirector@lunthatv.com) or the developers at [smartstudiosmw@gmail.com](mailto:smartstudiosmw@gmail.com) 
+Email: [lunthatvdirector@lunthatv.com](mailto:lunthatvdirector@lunthatv.com) or the developers at [smartstudiosmw@gmail.com](mailto:smartstudiosmw@gmail.com) 
 
 ---
